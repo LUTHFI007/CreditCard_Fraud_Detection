@@ -75,12 +75,3 @@ We use data preprocessing, visualization, and classification techniques to devel
 - Due to the **class imbalance**, **recall and precision** are more reliable than accuracy.
 - The **Random Forest** model provided the most balanced performance in detecting fraudulent transactions.
 
-
----
-
-## 🧾 How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/Credit-Card-Fraud-Detection.git
-   cd Credit-Card-Fraud-Detection
