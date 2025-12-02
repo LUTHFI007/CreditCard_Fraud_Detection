@@ -45,7 +45,6 @@ We use data preprocessing, visualization, and classification techniques to devel
   - **Logistic Regression**
   - **Random Forest**
   - **Decision Tree**
-  - **XGBoost** *(if included)*
 - Evaluate models using:
   - **Accuracy**
   - **Precision**
