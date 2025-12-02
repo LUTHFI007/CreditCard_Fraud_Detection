@@ -42,9 +42,8 @@ We use data preprocessing, visualization, and classification techniques to devel
 
 ### 3. Model Training & Evaluation
 - Train models using machine learning algorithms such as:
-  - **Logistic Regression**
   - **Random Forest**
-  - **Decision Tree**
+  - **Support Vector Machine**
 - Evaluate models using:
   - **Accuracy**
   - **Precision**
